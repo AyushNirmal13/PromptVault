@@ -68,7 +68,7 @@ const Login = () => {
           </div>
         </div>
 
-        <p className="relative text-primary-300 text-sm">© 2024 PromptVault · Built for developers</p>
+        <p className="relative text-primary-300 text-sm">© 2026 PromptVault · Built for developers</p>
       </div>
 
       {/* Right — login */}
